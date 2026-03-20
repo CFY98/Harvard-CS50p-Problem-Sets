@@ -11,3 +11,15 @@ def coke_machine():
     print(f"Change Owed: {abs(cost)}")
     
 coke_machine()
+                   
+                    
+
+                            
+                                
+                    
+                
+
+        
+        
+
+machine()

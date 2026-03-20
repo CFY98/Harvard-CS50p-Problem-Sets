@@ -12,7 +12,7 @@ while True:
         if name not in names:
             names.append(name)
     except (EOFError):
-        print(f'Adieu, adieu, to {p.join(names)}')
+        print(f'Adieu, adieu, to {p.join(names)}.')
         break
 
 
